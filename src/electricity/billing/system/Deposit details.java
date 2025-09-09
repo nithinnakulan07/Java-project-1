@@ -13,7 +13,7 @@ public class DepositDetails extends JFrame implements ActionListener{
     JButton search, print;
     
     DepositDetails(){
-        super("Deposit Details");
+        super("Deposit Details"); 
         
         setSize(700, 700);
         setLocation(400, 100);
