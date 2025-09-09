@@ -12,7 +12,7 @@ public class DepositDetails extends JFrame implements ActionListener{
     JTable table;
     JButton search, print;
     
-    DepositDetails(){
+    DepositDetails(){ 
         super("Deposit Details"); 
         
         setSize(700, 700);
